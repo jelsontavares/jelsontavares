@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 I’m Jelson!<br>I’m currently learning web development Full Stack.<br>I love to learn new things and challenge myself.<br><br>
-You can find me here:
+You can find me here:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jelsontavares)<br> 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jelsontavares)
 
@@ -11,9 +11,6 @@ You can find me here:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jelsontavares&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jelsontavares) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jelsontavares)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jelsontavares&limit=5&theme=dark&combine_all_yearly_contributions=true)
