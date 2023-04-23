@@ -2,7 +2,8 @@
 
 # 💫 About Me:
 I’m Jelson!<br>I’m currently learning web development Full Stack.<br>I love to learn new things and challenge myself.<br><br>
-You can find me here [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jelsontavares) and here 
+You can find me here:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jelsontavares)<br> 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jelsontavares)
 
 # 💻 Tech Stack:
