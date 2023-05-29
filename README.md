@@ -21,7 +21,3 @@ You can find me here:<br>
 [![](https://visitcount.itsvg.in/api?id=jelsontavares&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-🌸 I'm Treasure Okafor
-
-📊 Interested in SQL, Python, R, Excel and Power BI and other analysis tools.
-👯‍♀️ Open to connect and collaborate on intermediate level projects around Data analysis and Research.
